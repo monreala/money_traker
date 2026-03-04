@@ -47,7 +47,7 @@
 ### Запуск из IntelliJ IDEA
 1. Откройте проект в IDEA
 2. Откройте `MoneyTrakerApplication.java`
-3. Нажмите ▶ (Run) или `Shift+F10`
+3. Нажмите  (Run) или `Shift+F10`
 
 Приложение запустится на `http://localhost:8080`
 
