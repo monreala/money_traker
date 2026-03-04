@@ -1,0 +1,28 @@
+# Build
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+.mvn/repository/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
