@@ -180,27 +180,5 @@ curl http://localhost:8080/api/transactions/summary
 .\mvnw.cmd test
 ```
 
-##  Публикация на GitHub
 
-```bash
-# 1. Инициализация Git (если ещё не сделано)
-git init
-
-# 2. Добавить все файлы
-git add .
-
-# 3. Первый коммит
-git commit -m "Initial commit: Money Tracker with GUI"
-
-# 4. Добавить удалённый репозиторий (создайте репозиторий на GitHub: github.com/new)
-git remote add origin https://github.com/monreala/money_traker.git
-
-# 5. Отправить на GitHub
-git branch -M main
-git push -u origin main
-```
-
-
-
-**monreala** — [github.com/monreala](https://github.com/monreala)
 
